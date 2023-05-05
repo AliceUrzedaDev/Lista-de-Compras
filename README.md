@@ -8,7 +8,7 @@
 - ``CSS``
 - ``HTML``
 
-## Instruções para utilização da Lista de Compras:
+## 📃 Instruções para utilização da Lista de Compras:
 
 - Digite os itens que deseja comprar na sua lista e salve eles no botão "Salvar Item" ou apertando "Enter";
 - Para editar o item, aperte o lápis ao lado direito do nome digitado, após aperte no próprio nome para digitar outro de sua preferência e clique no disquete para salvar;
@@ -20,7 +20,7 @@
 
 Você pode acessar o projeto feito por mim clicando [aqui]( https://aliceurzedadev.github.io/Lista-de-Compras/).
 
-## Neste arquivo encontram-se modelos de códigos que foram utilizados no decorrer do curso: 
+## 📚 Neste arquivo encontram-se modelos de códigos que foram utilizados no decorrer do curso: 
 
 Código modelo da li "Comprados":
 
