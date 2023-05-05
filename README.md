@@ -8,7 +8,7 @@
 - ``CSS``
 - ``JavaScript``
 
-Neste arquivo encontram-se modelos de códigos que foram utilizados no decorrer do curso. 
+## Neste arquivo encontram-se modelos de códigos que foram utilizados no decorrer do curso. 
 
 Código modelo da li "Comprados":
 
