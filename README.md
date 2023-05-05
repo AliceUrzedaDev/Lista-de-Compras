@@ -8,6 +8,10 @@
 - ``CSS``
 - ``JavaScript``
 
+## 📁 Acesso ao projeto
+
+Você pode acessar o projeto feito por mim clicando [aqui]( https://aliceurzedadev.github.io/Lista-de-Compras/).
+
 ## Neste arquivo encontram-se modelos de códigos que foram utilizados no decorrer do curso. 
 
 Código modelo da li "Comprados":
