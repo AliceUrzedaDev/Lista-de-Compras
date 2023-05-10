@@ -8,6 +8,7 @@
 - ``CSS``
 - ``HTML``
 
+
 ## 📃 Instruções para utilização da Lista de Compras:
 
 - Digite os itens que deseja comprar na sua lista e salve eles no botão "Salvar Item" ou apertando "Enter";
